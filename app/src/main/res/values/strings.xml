@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CinemaWorld</string>
+    <string name="worldcinema">WorldCinema</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="signin">Войти</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="passwordregistartion">Пароль</string>
+    <string name="verificationpasswordregistration">Подтверждение пароля</string>
+    <string name="topbutton">Зарегистрироваться</string>
+    <string name="bottombutton">У меня уже есть аккаунт</string>
+    <string name="collection">Коллекция</string>
+    <string name="plus">+</string>
+    <string name="exite">Выйти</string>
+    <string name="search">Поиск</string>
+    <string name="searchtext">Название фильма</string>
+    <string name="genre">Жанр</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="author">Автор</string>
+    <string name="save">Сохранить</string>
+    <string name="nameclection">Название коллекции</string>
+
+    <string name="emptyemail">Поле для ввода почты не должно быть пустым.</string>
+    <string name="emptypassword">Поле для ввода пароля не должно быть пустым.</string>
+    <string name="mismatchpassword">Пароли не совпадают.</string>
+    <string name="emptyfields">Поля не могут быть пустыми.</string>
+</resources>

@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_addCollection"
+        android:title="Добавить коллекцию" />
+    <item
+        android:id="@+id/menu_moveToFilmsScreen"
+        android:title="Перейти на экран с фильмами" />
+</menu>

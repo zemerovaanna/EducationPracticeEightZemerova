@@ -1,0 +1,23 @@
+
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+g
+7app/src/main/java/com/example/cinemaworld/Collection.kt,3\9\394f28e14bd7aa8698dbcc225dbc6b81d3db3920
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+p
+@app/src/main/java/com/example/cinemaworld/RegistrationNewUser.kt,a\5\a55b28fdc8523d853a3070cacfe13ac935818f55
+j
+:app/src/main/java/com/example/cinemaworld/AddCollection.kt,c\6\c60c199954a7cdcb7ab17dab22798af1890af7e1
+c
+3app/src/main/java/com/example/cinemaworld/SignIn.kt,3\6\36a2b939a49d9edf13b7100b792e841e7108d282
+a
+1app/src/main/java/com/example/cinemaworld/Film.kt,b\2\b280a05a51aaece610d178fa0a6b7b4485d2930a
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+a
+1app/src/main/java/com/example/cinemaworld/Room.kt,3\3\338ef399559c4901943a674b9207c350e27216f8
+d
+4app/src/main/java/com/example/cinemaworld/AddFilm.kt,b\4\b4ca9aa01b4f06375b3e87a27529161bf0069635
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
